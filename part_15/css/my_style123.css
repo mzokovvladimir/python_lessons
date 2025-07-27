@@ -1,0 +1,32 @@
+h1, h3, h5{
+    color: darkorange;
+}
+
+h2, h4, h6{
+    color: deeppink;
+}
+
+ol{
+    color: aqua;
+}
+
+ul{
+    color: darkgoldenrod;
+}
+
+p{
+    color: darkblue;
+}
+
+table{
+    color: darkred;
+    text-align: center;
+}
+
+.table1{
+    color: chartreuse;
+}
+
+.table2{
+    color: coral;
+}

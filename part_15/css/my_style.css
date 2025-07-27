@@ -1,0 +1,37 @@
+h1, h3, h5{
+    color: chartreuse;
+}
+h2, h4, h6{
+    color: darkorange;
+}
+b{
+    color: blue;
+}
+i{
+    color: aqua;
+}
+u{
+    color: blueviolet;
+}
+table{
+    color: brown;
+    text-align: center;
+    border: 1px solid black;
+}
+.table1{
+    color: darkmagenta;
+}
+.table2{
+    color: green;
+}
+th, td{
+    border-collapse: collapse;
+    border: 1px solid blueviolet;
+    background: #b8e0e9;
+}
+ul{
+    color:gold;
+}
+ol{
+    color: lime;
+}
