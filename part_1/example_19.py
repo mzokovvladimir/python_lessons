@@ -1,0 +1,10 @@
+my_tuple = (1, 2, 3)
+print(my_tuple)
+print(type(my_tuple))
+print(my_tuple[0])
+print(my_tuple[1:-1])
+print(20 not in my_tuple)
+print(my_tuple.index(2))
+print(my_tuple.count(3))
+my_str = "12345"
+print(sum(my_str))

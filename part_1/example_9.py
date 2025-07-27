@@ -1,0 +1,35 @@
+my_list = []
+my_list.append(1)
+my_list.append(10)
+print(my_list)
+print(type(my_list))
+my_list.extend([1, 10])
+my_list.append([1, 10])
+print(my_list)
+my_list.extend(['1', '10'])
+my_list.append(['1', '10'])
+print(my_list)
+print(len(my_list))
+print(my_list[0])
+print(my_list[0:2])
+if 1 in my_list:
+    print('test')
+print(my_list.count(1))
+my_list.remove(1)
+print(my_list)
+my_list.count(1)
+print(my_list.count(1))
+del my_list[0]
+print(my_list)
+my_test_var = my_list.pop(-1)
+print(my_test_var)
+print(my_list)
+my_list_copy = my_list.copy()
+print(my_list_copy)
+my_list_copy.clear()
+print(my_list_copy)
+# a == b
+# a = b
+# a is b
+my_list.reverse()
+print(my_list)

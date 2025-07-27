@@ -1,0 +1,8 @@
+print(21 + 4)
+print(21 - 4)
+print(21 * 4)
+print(21 / 4)
+print(21 // 4)
+print(21 % 4)
+print(21 ** 4)
+print(int(9 ** 0.5))

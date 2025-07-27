@@ -1,0 +1,10 @@
+my_list = [1, 2, 3, 5, 7]
+print(my_list)
+my_iter_obj = iter(my_list)
+print(my_iter_obj)
+print(next(my_iter_obj))
+print(next(my_iter_obj))
+print(next(my_iter_obj))
+print(next(my_iter_obj))
+print(next(my_iter_obj))
+print(next(my_iter_obj))
